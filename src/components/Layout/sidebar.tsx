@@ -3,7 +3,6 @@ import { useNavigate, useLocation } from "react-router-dom";
 import logo from "/logo.png";
 import "../../index.css";
 import {
-  Storage,
   ChevronRight,
   ChevronLeft,
   SupervisorAccount,
